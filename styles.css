@@ -1,3 +1,16 @@
+html{
+    background-color: rgb(89, 163, 138);
+    text-align: center;
+}
 h1{
-    color: aquamarine;
+    color: rgb(21, 31, 27);
+    font-size: 250%;
+}
+
+h2{
+    color: rgba(0, 0, 0, 0.712);
+}
+
+p{
+    font-size: 170%;
 }
